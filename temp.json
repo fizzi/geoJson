@@ -16,4 +16,21 @@
                      }
                   }
                ]
+            }, {
+                     "type": "Feature",
+                     "properties": {
+                        "document": "/Users/a___/an___/and___/andypower/Private/Documents/folter/geoSDIMapLite.html",
+                        "userEmail": "nazzareno.sileno@geosdi.org",
+                        "uploadTime": 1435651555322,
+                        "userFullName": "Nazzareno Sileno"
+                     },
+                     "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                           11.953125,
+                           46.860191016
+                        ]
+                     }
+                  }
+               ]
             }
