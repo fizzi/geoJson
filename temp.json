@@ -14,9 +14,7 @@
                            45.890008159
                         ]
                      }
-                  }
-               ]
-            }, {
+                  }, {
                      "type": "Feature",
                      "properties": {
                         "document": "/Users/a___/an___/and___/andypower/Private/Documents/folter/geoSDIMapLite.html",
@@ -32,5 +30,7 @@
                         ]
                      }
                   }
+               ]
+            }
                ]
             }
