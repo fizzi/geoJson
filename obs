@@ -1,0 +1,198 @@
+{
+    "elements" : [ {
+      "id" : "AVPQzbi09LUIEv5hVjFE",
+      "i18nText" : "Segnale attività valanga",
+      "imageURL" : "https://api.mountainow.it/images/observations/avalanchesigns.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ0wax9LUIEv5hVjFM",
+      "i18nText" : "Affollato",
+      "imageURL" : "https://api.mountainow.it/images/observations/crowded.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ11lt9LUIEv5hVjFf",
+      "i18nText" : "Neve fresca",
+      "imageURL" : "https://api.mountainow.it/images/observations/powdersnow.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ2Byg9LUIEv5hVjFj",
+      "i18nText" : "Recupero tecnico su crepaccio",
+      "imageURL" : "https://api.mountainow.it/images/observations/technicalrimaye.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ2M3P9LUIEv5hVjFm",
+      "i18nText" : "Manto scivoloso",
+      "imageURL" : "https://api.mountainow.it/images/observations/trickyneves.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ0LJD9LUIEv5hVjFG",
+      "i18nText" : "Condizioni medie",
+      "imageURL" : "https://api.mountainow.it/images/observations/averageconditions.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ0syq9LUIEv5hVjFL",
+      "i18nText" : "Affollato",
+      "imageURL" : "https://api.mountainow.it/images/observations/crowded.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ00BJ9LUIEv5hVjFN",
+      "i18nText" : "Neve non battuta",
+      "imageURL" : "https://api.mountainow.it/images/observations/crustysnow.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ1LD19LUIEv5hVjFU",
+      "i18nText" : "Buone Condizioni",
+      "imageURL" : "https://api.mountainow.it/images/observations/goodconditions.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ1Oy59LUIEv5hVjFV",
+      "i18nText" : "Buone Condizioni",
+      "imageURL" : "https://api.mountainow.it/images/observations/goodconditions.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ1d5N9LUIEv5hVjFZ",
+      "i18nText" : "Ghiaccio (ramponi tecnici)",
+      "imageURL" : "https://api.mountainow.it/images/observations/icetechnicalcramponing.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ1lD19LUIEv5hVjFb",
+      "i18nText" : "Crepacci aperti",
+      "imageURL" : "https://api.mountainow.it/images/observations/opencrevasses.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ14nW9LUIEv5hVjFg",
+      "i18nText" : "Ramponi sci / A piedi",
+      "imageURL" : "https://api.mountainow.it/images/observations/skicramponsoronfoot.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ2Go59LUIEv5hVjFk",
+      "i18nText" : "Percorso",
+      "imageURL" : "https://api.mountainow.it/images/observations/track.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ06d49LUIEv5hVjFP",
+      "i18nText" : "Corridoi o gole secche/sottili",
+      "imageURL" : "https://api.mountainow.it/images/observations/drygullyorcorridor.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ1Ezm9LUIEv5hVjFS",
+      "i18nText" : "Manto nevoso instabile",
+      "imageURL" : "https://api.mountainow.it/images/observations/fracturedsnowpack.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ1aaj9LUIEv5hVjFY",
+      "i18nText" : "Attraversamento fiume in piena",
+      "imageURL" : "https://api.mountainow.it/images/observations/high-rivercrossing.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ1q4j9LUIEv5hVjFd",
+      "i18nText" : "Altro",
+      "imageURL" : "https://api.mountainow.it/images/observations/other.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ1yGu9LUIEv5hVjFe",
+      "i18nText" : "Altro",
+      "imageURL" : "https://api.mountainow.it/images/observations/other.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ170c9LUIEv5hVjFh",
+      "i18nText" : "Terreno scivoloso",
+      "imageURL" : "https://api.mountainow.it/images/observations/slipperyterrain.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ2JuN9LUIEv5hVjFl",
+      "i18nText" : "Percorso",
+      "imageURL" : "https://api.mountainow.it/images/observations/track.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ1iW_9LUIEv5hVjFa",
+      "i18nText" : "Ghiaccio (ramponi tecnici)",
+      "imageURL" : "https://api.mountainow.it/images/observations/icetechnicalcramponing.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ1BsH9LUIEv5hVjFR",
+      "i18nText" : "Manto nevoso instabile",
+      "imageURL" : "https://api.mountainow.it/images/observations/fracturedsnowpack.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ1-wb9LUIEv5hVjFi",
+      "i18nText" : "Massi sulla pista)",
+      "imageURL" : "https://api.mountainow.it/images/observations/sub-surfacerocks.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ0Gfb9LUIEv5hVjFF",
+      "i18nText" : "Segnale attività valanga",
+      "imageURL" : "https://api.mountainow.it/images/observations/avalanchesigns.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ2Pvo9LUIEv5hVjFn",
+      "i18nText" : "Neve instabile",
+      "imageURL" : "https://api.mountainow.it/images/observations/unstablesnow.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ1WXU9LUIEv5hVjFX",
+      "i18nText" : "Neve ghiacciata",
+      "imageURL" : "https://api.mountainow.it/images/observations/hardsnow.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ0mTs9LUIEv5hVjFJ",
+      "i18nText" : "Condizioni non buone",
+      "imageURL" : "https://api.mountainow.it/images/observations/badconditions.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ0pm29LUIEv5hVjFK",
+      "i18nText" : "Condizioni non buone",
+      "imageURL" : "https://api.mountainow.it/images/observations/badconditions.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ1IJI9LUIEv5hVjFT",
+      "i18nText" : "Crepacci aperti",
+      "imageURL" : "https://api.mountainow.it/images/observations/opencrevasses.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ1n3u9LUIEv5hVjFc",
+      "i18nText" : "Crepacci aperti",
+      "imageURL" : "https://api.mountainow.it/images/observations/opencrevasses.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ2Scf9LUIEv5hVjFo",
+      "i18nText" : "Condizioni molto cattive",
+      "imageURL" : "https://api.mountainow.it/images/observations/verybadconditions.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ2VKI9LUIEv5hVjFp",
+      "i18nText" : "Condizioni molto cattive",
+      "imageURL" : "https://api.mountainow.it/images/observations/verybadconditions.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ0SNu9LUIEv5hVjFH",
+      "i18nText" : "Condizioni medie",
+      "imageURL" : "https://api.mountainow.it/images/observations/averageconditions.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ03Y29LUIEv5hVjFO",
+      "i18nText" : "Neve alta",
+      "imageURL" : "https://api.mountainow.it/images/observations/deepsnow.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ0-OX9LUIEv5hVjFQ",
+      "i18nText" : "Caduta Massi",
+      "imageURL" : "https://api.mountainow.it/images/observations/fallingrocks.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ1S1e9LUIEv5hVjFW",
+      "i18nText" : "Seracchi sospesi",
+      "imageURL" : "https://api.mountainow.it/images/observations/hangingseracs.png",
+      "season" : "Summer"
+    }, {
+      "id" : "AVPQ2YHs9LUIEv5hVjFq",
+      "i18nText" : "Neve bagnata (fangosa)",
+      "imageURL" : "https://api.mountainow.it/images/observations/wetsnow.png",
+      "season" : "Winter"
+    }, {
+      "id" : "AVPQ2b2v9LUIEv5hVjFr",
+      "i18nText" : "Segnali di vento",
+      "imageURL" : "https://api.mountainow.it/images/observations/windsigns.png",
+      "season" : "Winter"
+    } ]
+}t
