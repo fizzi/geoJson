@@ -1,4 +1,9 @@
 {
+  "id" : "AVSj10DGdL1QzyDf7UJb",
+  "userId" : "AVSV2-V3dL1QzyDf7UG5",
+  "description" : "giuliano",
+  "creationDate" : "2016-05-12T07:21:13.178Z",
+  "locations" : [ {
     "location" : {
       "type" : "Point",
       "coordinates" : [ 15.7239883, 40.7324901 ]
@@ -796,4 +801,5 @@
       "coordinates" : [ 15.74849197, 40.70897365 ]
     },
     "creationDate" : "2016-05-12T06:17:57.552Z"
-  }
+  } ]
+}
