@@ -1,5 +1,4 @@
-{
-  "locations" : [ {
+[ {
     "location" : {
       "type" : "Point",
       "coordinates" : [ 15.7239883, 40.7324901 ]
@@ -798,4 +797,4 @@
     },
     "creationDate" : "2016-05-12T06:17:57.552Z"
   } ]
-}
+  
