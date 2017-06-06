@@ -2,7 +2,7 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [15.42, 40.60],
+    "coordinates": [15.72, 40.60],
     "sender":"771244214474580"
   },
   "properties": {
@@ -11,8 +11,6 @@
    "plate": null,
    "msgtimestamp": 1496754544000,
    "version": "1.1",
-   "latitude": 40.92577,
-   "longitude": 14.22834,
    "gpspeed": 19,
    "enginerpm": 3000,
    "veichlespeed": 54,
