@@ -1,25 +1,25 @@
 {
-  "type": "Feature",
-  "id":"771244214474580",
-  "geometry": {
+   "type": "Feature",
+   "id": "771244214474580",
+   "geometry": {
     "type": "Point",
-    "coordinates": [15.72, 40.60]
-  },
-  "properties": {
-    "msguid": "57b44665-5aba-4183-9cbb-7b35c51b9038",
-   "sender": "771244214474580",
-   "plate": null,
-   "msgtimestamp": 1496754544000,
-   "version": "1.1",
-   "gpspeed": 19,
-   "enginerpm": 3000,
-   "veichlespeed": 54,
-   "intakeairtemp": 18,
-   "ambientairtemp": 24,
-   "enginestartime": 10000,
-   "fuelevelinput": 60,
-   "engineoiltemp": 100,
-   "enginecoolanttemp": 10,
-   "VIN": "1D3HW38K7981ZDCC2"
-  }
+    "coordinates": [14.22972, 40.92257]
+   },
+   "properties": {
+  "msguid": "70bed188-50b5-4552-8c25-5a3e751cb8bb",
+  "sender": "771244214474580",
+  "plate": null,
+  "msgtimestamp": 1496832700000,
+  "version": "1.1",
+  "gpspeed": 19,
+  "enginerpm": 3000,
+  "veichlespeed": 32,
+  "intakeairtemp": 19,
+  "ambientairtemp": 25,
+  "enginestartime": 10000,
+  "fuelevelinput": 60,
+  "engineoiltemp": 100,
+  "enginecoolanttemp": 10,
+  "VIN": "4F2YU06B222V727ZS"   
+   }
 }
